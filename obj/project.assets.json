@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/cse325/cse325.csproj",
-      "projectName": "cse325",
-      "projectPath": "/workspaces/cse325/cse325.csproj",
+      "projectUniqueName": "/workspaces/cse325/mslearn-dotnet-files.csproj",
+      "projectName": "mslearn-dotnet-files",
+      "projectPath": "/workspaces/cse325/mslearn-dotnet-files.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
       "outputPath": "/workspaces/cse325/obj/",
       "projectStyle": "PackageReference",
