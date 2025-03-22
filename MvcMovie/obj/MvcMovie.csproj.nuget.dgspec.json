@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/cse325/MvcMovie/MvcMovie.csproj": {}
+    "C:\\Users\\donan\\OneDrive\\Desktop\\Bear's school\\cse325\\cse325\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "/workspaces/cse325/MvcMovie/MvcMovie.csproj": {
+    "C:\\Users\\donan\\OneDrive\\Desktop\\Bear's school\\cse325\\cse325\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/cse325/MvcMovie/MvcMovie.csproj",
+        "projectUniqueName": "C:\\Users\\donan\\OneDrive\\Desktop\\Bear's school\\cse325\\cse325\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "/workspaces/cse325/MvcMovie/MvcMovie.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/cse325/MvcMovie/obj/",
+        "projectPath": "C:\\Users\\donan\\OneDrive\\Desktop\\Bear's school\\cse325\\cse325\\MvcMovie\\MvcMovie.csproj",
+        "packagesPath": "C:\\Users\\donan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\donan\\OneDrive\\Desktop\\Bear's school\\cse325\\cse325\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\donan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -87,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -301,3 +301,15 @@
 /workspaces/cse325/MvcMovie/obj/Debug/net8.0/MvcMovie.pdb
 /workspaces/cse325/MvcMovie/obj/Debug/net8.0/MvcMovie.genruntimeconfig.cache
 /workspaces/cse325/MvcMovie/obj/Debug/net8.0/ref/MvcMovie.dll
+C:\Users\donan\OneDrive\Desktop\Bear's school\cse325\cse325\MvcMovie\obj\Debug\net8.0\MvcMovie.csproj.AssemblyReference.cache
+C:\Users\donan\OneDrive\Desktop\Bear's school\cse325\cse325\MvcMovie\obj\Debug\net8.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donan\OneDrive\Desktop\Bear's school\cse325\cse325\MvcMovie\obj\Debug\net8.0\MvcMovie.AssemblyInfoInputs.cache
+C:\Users\donan\OneDrive\Desktop\Bear's school\cse325\cse325\MvcMovie\obj\Debug\net8.0\MvcMovie.AssemblyInfo.cs
+C:\Users\donan\OneDrive\Desktop\Bear's school\cse325\cse325\MvcMovie\obj\Debug\net8.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\donan\OneDrive\Desktop\Bear's school\cse325\cse325\MvcMovie\obj\Debug\net8.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\donan\OneDrive\Desktop\Bear's school\cse325\cse325\MvcMovie\obj\Debug\net8.0\MvcMovie.RazorAssemblyInfo.cache
+C:\Users\donan\OneDrive\Desktop\Bear's school\cse325\cse325\MvcMovie\obj\Debug\net8.0\MvcMovie.RazorAssemblyInfo.cs
+C:\Users\donan\OneDrive\Desktop\Bear's school\cse325\cse325\MvcMovie\obj\Debug\net8.0\MvcMovie.sourcelink.json
+C:\Users\donan\OneDrive\Desktop\Bear's school\cse325\cse325\MvcMovie\obj\Debug\net8.0\MvcMovie.dll
+C:\Users\donan\OneDrive\Desktop\Bear's school\cse325\cse325\MvcMovie\obj\Debug\net8.0\refint\MvcMovie.dll
+C:\Users\donan\OneDrive\Desktop\Bear's school\cse325\cse325\MvcMovie\obj\Debug\net8.0\MvcMovie.pdb
