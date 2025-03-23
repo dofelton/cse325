@@ -46,3 +46,7 @@ button.accept-policy[b-bq18ea6s7x] {
   white-space: nowrap;
   line-height: 60px;
 }
+
+input[b-bq18ea6s7x] {
+  padding: 20px;
+}
